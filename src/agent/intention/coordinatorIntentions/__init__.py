@@ -1,0 +1,2 @@
+from agent.intention.coordinatorIntentions.assembleIntention import AssembleIntention
+from agent.intention.coordinatorIntentions.coordinationIntention import CoordinationIntention
